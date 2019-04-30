@@ -1,6 +1,6 @@
 # Stronk
 [![CircleCI](https://circleci.com/gh/hash-vault/stronk.svg?style=svg)](https://circleci.com/gh/hash-vault/stronk)
-[![stronk](https://img.shields.io/pypi/v/stronk.svg)](https://pypi.org/project/stronk/)
+[![stronk](https://img.shields.io/pypi/v/stronk.svg)](https://pypi.org/project/stronk/) [![Join the chat at https://gitter.im/awarenv-stronk/community](https://badges.gitter.im/awarenv-stronk/community.svg)](https://gitter.im/awarenv-stronk/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Strong Python key and password generator tool.
 
